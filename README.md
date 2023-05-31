@@ -13,12 +13,14 @@
   </p>
   </Div>
  <br>
+ <div align="justify">
   <p>   Lembrando que os movimentos de mouse são readaptados de acordo com caminho de procedimentos imaginado, 
     imitando o que voce faria caso estivesse fazendo manualmente. Por isso, os tempos de espera entre os comandos 
   variam de computador para computador. Como o ponto clicado e um pixel da resolução, também iria variar o ponto com a resolução,
     mas incluiu-se uma parte inicial de code que pega resolução de cada Pc e combina com o pc no qual se foi desenvolvido o code,
     deixando code adaptativo.
   </p>
+     </Div>
 
 
 <div  align="center"> 
